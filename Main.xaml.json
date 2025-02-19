@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_SFTPConfigFile",
+      "DisplayName": "in_SFTPConfigFile",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "\\\\lhsnas02\\LHSFS01\\LHD\\Common\\RPA\\Process1\\Config\\SFTPConfig.xlsx",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_ReadEmailConfigFile",
+      "DisplayName": "in_ReadEmailConfigFile",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "\\\\lhsnas02\\LHSFS01\\LHD\\Common\\RPA\\Process1\\Config\\ReadEmailConfig.xlsx",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
